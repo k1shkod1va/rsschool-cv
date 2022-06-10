@@ -1,5 +1,5 @@
 # Hi! I'm Maya Sweden! o_0
-I'm 16 years old, I from Russia, I'm studyind in high school. I just started programming, but I want to orient myself in this field.
+I'm 16 years old, I from Russia, I'm studyind in high school. I just started programming, but I want to orient myself in this field <3.
 
 # Contacts
 <ul>
